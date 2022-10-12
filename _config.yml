@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Mineja"
-  avatar           : #"/assets/images/avatar.png"
+  avatar           : "/assets/images/avatar.png"
   bio              : "Estudiante"
   location         : "Madrid"
   email            : "j.garcia.47@villalkor.com"
