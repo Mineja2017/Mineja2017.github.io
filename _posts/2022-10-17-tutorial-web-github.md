@@ -68,7 +68,7 @@ Ahora que tienes el repositorio con la informacion de la pagina web debemos acti
 
 ## Instalar Ruby, Jekyll y bundler
 
-Ahora debemos instalar uno paquetes que nos ayudarán a lanzar la web de manera local para ver los cambios antes de que sean publicados.
+Ahora debemos instalar una serie de paquetes que nos ayudarán a lanzar la web de manera local para ver los cambios antes de que sean publicados.
 
 1. Descargaremos Ruby2.7 desde este [link](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.7.6-1/rubyinstaller-devkit-2.7.6-1-x86.exe) y lo instalaremos dejando marcadas las opciones por defecto. Despues de finalizar la instalación se abrira una terminal en windows que te preguntará que tipo de instalación que deseas. Debes seleccionar el número **3** y cuando te vuelva a preguntar esto mismo ya podrás cerrar la terminal (en caso de que la terminal no aparezaca, abre una terminal manualmente y escribe lo siguiente: `ridk install`.
 ![](/assets/images/tuto-web/ruby1.png)  
