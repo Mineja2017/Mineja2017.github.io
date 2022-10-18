@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-ES"
 title                    : "Mineja2017-Entregas"
 title_separator          : "-"
 name                     : "Mineja2017"
@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Mineja"
-  avatar           : #"/assets/images/avatar.png"
+  avatar           : "/assets/images/avatar.png"
   bio              : "Estudiante"
   location         : "Madrid"
   email            : "j.garcia.47@villalkor.com"
@@ -117,7 +117,7 @@ author:
   github           : "Mineja2017"
   gitlab           :
   google_plus      :
-  keybase          : #"snowscan"
+  keybase          : 
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,11 +126,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : #"snowscan"
+  twitter          : #
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # 
 
 
 # Reading Files
